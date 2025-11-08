@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Npgsql.EntityFrameworkCore.PostgreSQL;
 using ExamenSegundoParcialServices.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,7 +18,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.Configure<RouteOptions>(options => options.LowercaseUrls = true);
 
 var connectionString = builder.Configuration.GetConnectionString("ConexionSQL");
-builder.Services.AddDbContext<CongresoUTLExamenSPContext>(options => options.UseSqlServer(connectionString));
+builder.Services.AddDbContext<CongresoUTLExamenSPContext>(options => options.UseNpgsql(connectionString));
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("Politicas", app =>
