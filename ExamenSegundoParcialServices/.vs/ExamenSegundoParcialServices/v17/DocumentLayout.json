@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Migrations\\20251108085929_InitialPostgresSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251108085929_InitialPostgresSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\congreso\\examensegundoparcialservices\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,6 +55,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20251108085929_InitialPostgresSetup.cs",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Migrations\\20251108085929_InitialPostgresSetup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251108085929_InitialPostgresSetup.cs",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Migrations\\20251108085929_InitialPostgresSetup.cs",
+              "RelativeToolTip": "Migrations\\20251108085929_InitialPostgresSetup.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T08:59:29.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "Models\\SeedData.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ExamenSegundoParcialServices.csproj",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\ExamenSegundoParcialServices.csproj",
               "RelativeDocumentMoniker": "ExamenSegundoParcialServices.csproj",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Registro.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Models\\Registro.cs",
               "RelativeDocumentMoniker": "Models\\Registro.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AsistentesController.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Controllers\\AsistentesController.cs",
               "RelativeDocumentMoniker": "Controllers\\AsistentesController.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AvatarController.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Controllers\\AvatarController.cs",
               "RelativeDocumentMoniker": "Controllers\\AvatarController.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CongresoUTLExamenSPContext.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Models\\CongresoUTLExamenSPContext.cs",
               "RelativeDocumentMoniker": "Models\\CongresoUTLExamenSPContext.cs",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Avatar.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Models\\Avatar.cs",
               "RelativeDocumentMoniker": "Models\\Avatar.cs",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -147,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -155,8 +172,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T21:58:31.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T21:58:31.001Z"
             }
           ]
         }
