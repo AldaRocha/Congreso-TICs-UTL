@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExamenSegundoParcialServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03f025da223656f2321cb2fcfa8356fe10106e1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c69b50c71673cef3da7b7a3903f5e09f82566cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExamenSegundoParcialServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExamenSegundoParcialServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
