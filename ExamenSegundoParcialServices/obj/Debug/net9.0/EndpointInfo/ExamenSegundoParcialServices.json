@@ -1,0 +1,181 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "ExamenSegundoParcialServices",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/asistentes": {
+      "get": {
+        "tags": [
+          "Asistentes"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Registro"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Registro"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Registro"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Asistentes"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Registro"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Registro"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Registro"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/avatar": {
+      "get": {
+        "tags": [
+          "Avatar"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Avatar"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Avatar"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Avatar"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Avatar": {
+        "type": "object",
+        "properties": {
+          "AvatarId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Nombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "UrlImagen": {
+            "type": "string",
+            "nullable": true
+          },
+          "Activo": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Registro": {
+        "type": "object",
+        "properties": {
+          "RegistroId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "AvatarId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "Avatar": {
+            "$ref": "#/components/schemas/Avatar"
+          },
+          "Nombres": {
+            "type": "string",
+            "nullable": true
+          },
+          "Apellidos": {
+            "type": "string",
+            "nullable": true
+          },
+          "Correo": {
+            "type": "string",
+            "nullable": true
+          },
+          "Twitter": {
+            "type": "string",
+            "nullable": true
+          },
+          "Ocupacion": {
+            "type": "string",
+            "nullable": true
+          },
+          "Terminos": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

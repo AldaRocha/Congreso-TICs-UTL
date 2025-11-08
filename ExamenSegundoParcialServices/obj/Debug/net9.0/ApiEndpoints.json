@@ -1,0 +1,58 @@
+[
+  {
+    "ContainingType": "ExamenSegundoParcialServices.Controllers.AsistentesController",
+    "Method": "Asistentes",
+    "RelativePath": "api/asistentes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ExamenSegundoParcialServices.Models.Registro, ExamenSegundoParcialServices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ExamenSegundoParcialServices.Controllers.AsistentesController",
+    "Method": "Insertar",
+    "RelativePath": "api/asistentes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "ExamenSegundoParcialServices.Models.Registro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExamenSegundoParcialServices.Controllers.AvatarController",
+    "Method": "Get",
+    "RelativePath": "api/avatar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ExamenSegundoParcialServices.Models.Avatar, ExamenSegundoParcialServices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
