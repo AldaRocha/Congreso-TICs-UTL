@@ -14,7 +14,7 @@ const GafeteLayout = () => {
 
     const ObtenerUsuario = async (id) => {
         try{
-            const response = await axios.get("http://localhost:5112/api/asistentes/buscarbyid/" + id);
+            const response = await axios.get("https://congreso-tics-utl.onrender.com/api/asistentes/buscarbyid/" + id);
             setUsuario(response.data);
         } catch(error){
             console.log(error);

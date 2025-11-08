@@ -14,7 +14,7 @@ const MainLayout = () => {
     }, [buscador]);
 
     const ObtenerUsuarios = async (query) => {
-        let url = "http://localhost:5112/api/asistentes";
+        let url = "https://congreso-tics-utl.onrender.com/api/asistentes";
         if (query){
             url = url + "/buscar/" + query;
         }

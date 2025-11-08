@@ -18,7 +18,7 @@ const RegistroLayout = () => {
     }, []);
     
     const ObtenerAvatares = async () => {
-        const response = await axios.get("http://localhost:5112/api/avatar");
+        const response = await axios.get("https://congreso-tics-utl.onrender.com/api/avatar");
         setAvatares(response.data);
     }
 
@@ -56,7 +56,7 @@ const RegistroLayout = () => {
             Terminos: terminos ? 1 : 0
         }
 
-        const response = await axios.post("http://localhost:5112/api/asistentes", data);
+        const response = await axios.post("https://congreso-tics-utl.onrender.com/api/asistentes", data);
         alert(response.data);
         window.location.href = "/participantes";
     }
