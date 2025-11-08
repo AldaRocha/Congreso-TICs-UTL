@@ -3,6 +3,7 @@ import Home from "../components/Home";
 import ListadoLayoyt from "../layout/ListadoLayout";
 import NotFound from "../error/NotFound";
 import RegistroLayout from "../layout/RegistroLayout";
+import GafeteLayout from "../layout/GafeteLayout";
 
 export const Router = createBrowserRouter([
     {
@@ -18,6 +19,11 @@ export const Router = createBrowserRouter([
     {
         path: "/registro",
         element: <RegistroLayout/>,
+        errorElement: <NotFound/>
+    },
+    {
+        path: "/gafete/:id",
+        element: <GafeteLayout/>,
         errorElement: <NotFound/>
     }
 ])

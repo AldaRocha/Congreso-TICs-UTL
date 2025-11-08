@@ -36,6 +36,58 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ExamenSegundoParcialServices.Controllers.AsistentesController",
+    "Method": "BuscarPorNombre",
+    "RelativePath": "api/asistentes/buscar/{nombre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ExamenSegundoParcialServices.Models.Registro, ExamenSegundoParcialServices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ExamenSegundoParcialServices.Controllers.AsistentesController",
+    "Method": "BuscarPorId",
+    "RelativePath": "api/asistentes/buscarbyid/{RegistroId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "RegistroId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ExamenSegundoParcialServices.Models.Registro, ExamenSegundoParcialServices, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ExamenSegundoParcialServices.Controllers.AvatarController",
     "Method": "Get",
     "RelativePath": "api/avatar",

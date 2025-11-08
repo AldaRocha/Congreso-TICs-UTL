@@ -29,6 +29,42 @@ namespace ExamenSegundoParcialServices.Controllers
             }
         }
 
+        [HttpGet("buscar/{nombre}")]
+        public async Task<ActionResult<List<Registro>>> BuscarPorNombre(string nombre)
+        {
+            try
+            {
+                List<Registro> lista = await this.DbContext.Registro
+                    .Include(p => p.Avatar)
+                    .Where(p => p.Nombres.Contains(nombre))
+                    .ToListAsync();
+                
+                return Ok(lista);
+            }
+            catch
+            {
+                return BadRequest();
+            }
+        }
+
+        [HttpGet("buscarbyid/{RegistroId}")]
+        public async Task<ActionResult<List<Registro>>> BuscarPorId(int RegistroId)
+        {
+            try
+            {
+                Registro? usuario = await this.DbContext.Registro
+                    .Include(p => p.Avatar)
+                    .Where(p => p.RegistroId == RegistroId)
+                    .FirstOrDefaultAsync();
+
+                return Ok(usuario);
+            }
+            catch
+            {
+                return BadRequest();
+            }
+        }
+
         [HttpPost]
         public async Task<ActionResult> Insertar([FromBody] Registro data)
         {

@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  api-service:
+    build:
+      context: .
+      dockerfile: ExamenSegundoParcialServices/Dockerfile
+    ports:
+      - "5112:8080"
+    depends_on:
+      - db-service
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+
+  db-service:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=TuPasswordSeguraAqui123
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+
+volumes:
+  sqlserver_data:

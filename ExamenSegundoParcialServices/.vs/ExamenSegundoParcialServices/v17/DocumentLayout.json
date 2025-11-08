@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\",
+  "WorkspaceRootPath": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\examensegundoparcialservices\\controllers\\asistentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\congreso\\examensegundoparcialservices\\controllers\\asistentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|solutionrelative:controllers\\asistentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\examensegundoparcialservices\\controllers\\avatarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|solutionrelative:controllers\\avatarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\examensegundoparcialservices\\models\\congresoutlexamenspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|solutionrelative:models\\congresoutlexamenspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\examensegundoparcialservices\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\congreso\\examensegundoparcialservices\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|solutionrelative:models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\examensegundoparcialservices\\models\\avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\congreso\\examensegundoparcialservices\\controllers\\avatarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|solutionrelative:controllers\\avatarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\congreso\\examensegundoparcialservices\\models\\congresoutlexamenspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|solutionrelative:models\\congresoutlexamenspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\congreso\\examensegundoparcialservices\\models\\avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|solutionrelative:models\\avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\examensegundoparcialservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\congreso\\examensegundoparcialservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\examensegundoparcialservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|c:\\users\\rocha\\documents\\congreso\\examensegundoparcialservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F00B243A-0836-4F02-9756-D922CAFF3B6A}|ExamenSegundoParcialServices.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -42,36 +42,37 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Registro.cs",
-              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Models\\Registro.cs",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Models\\Registro.cs",
               "RelativeDocumentMoniker": "Models\\Registro.cs",
-              "ToolTip": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Models\\Registro.cs",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Models\\Registro.cs",
               "RelativeToolTip": "Models\\Registro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T00:47:58.267Z"
+              "WhenOpened": "2025-11-08T00:47:58.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AsistentesController.cs",
-              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Controllers\\AsistentesController.cs",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Controllers\\AsistentesController.cs",
               "RelativeDocumentMoniker": "Controllers\\AsistentesController.cs",
-              "ToolTip": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Controllers\\AsistentesController.cs",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Controllers\\AsistentesController.cs",
               "RelativeToolTip": "Controllers\\AsistentesController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T00:40:28.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AvatarController.cs",
-              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Controllers\\AvatarController.cs",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Controllers\\AvatarController.cs",
               "RelativeDocumentMoniker": "Controllers\\AvatarController.cs",
-              "ToolTip": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Controllers\\AvatarController.cs",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Controllers\\AvatarController.cs",
               "RelativeToolTip": "Controllers\\AvatarController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +80,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CongresoUTLExamenSPContext.cs",
-              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Models\\CongresoUTLExamenSPContext.cs",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Models\\CongresoUTLExamenSPContext.cs",
               "RelativeDocumentMoniker": "Models\\CongresoUTLExamenSPContext.cs",
-              "ToolTip": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Models\\CongresoUTLExamenSPContext.cs",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Models\\CongresoUTLExamenSPContext.cs",
               "RelativeToolTip": "Models\\CongresoUTLExamenSPContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,9 +94,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Avatar.cs",
-              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Models\\Avatar.cs",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Models\\Avatar.cs",
               "RelativeDocumentMoniker": "Models\\Avatar.cs",
-              "ToolTip": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Models\\Avatar.cs",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Models\\Avatar.cs",
               "RelativeToolTip": "Models\\Avatar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,9 +106,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -117,9 +118,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\Program.cs",
+              "ToolTip": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

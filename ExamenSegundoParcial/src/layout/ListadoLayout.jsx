@@ -16,7 +16,7 @@ const MainLayout = () => {
     const ObtenerUsuarios = async (query) => {
         let url = "http://localhost:5112/api/asistentes";
         if (query){
-            url = url + "/" + query;
+            url = url + "/buscar/" + query;
         }
         try{
             const response = await axios.get(url);
@@ -68,7 +68,7 @@ const MainLayout = () => {
                     {
                         usuarios.map((u) => {
                             return(
-                                <Col className="pb-3" lg="4" md="4" sm="12">
+                                <Col key={ u.RegistroId } className="pb-3" lg="4" md="4" sm="12">
                                     <Card>
                                         <Card.Img src={ u.Avatar.UrlImagen } alt="Imagen del avatar"/>
                                         <Card.Body className="text-center">
@@ -87,7 +87,7 @@ const MainLayout = () => {
                                                 { u.Correo }
                                             </Card.Text>
                                             <div className="d-flex align-items-center justify-content-center mt-3">
-                                                <Button>
+                                                <Button as={ Link } to={ "/gafete/" + u.RegistroId }>
                                                     Ver Gafete
                                                 </Button>
                                             </div>

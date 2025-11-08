@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\ExamenSegundoParcialServices.csproj": {}
+    "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\ExamenSegundoParcialServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\ExamenSegundoParcialServices.csproj": {
+    "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\ExamenSegundoParcialServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\ExamenSegundoParcialServices.csproj",
+        "projectUniqueName": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\ExamenSegundoParcialServices.csproj",
         "projectName": "ExamenSegundoParcialServices",
-        "projectPath": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\ExamenSegundoParcialServices.csproj",
+        "projectPath": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\ExamenSegundoParcialServices.csproj",
         "packagesPath": "C:\\Users\\rocha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rocha\\Documents\\ExamenSegundoParcialServices\\obj\\",
+        "outputPath": "C:\\Users\\rocha\\Documents\\Congreso\\ExamenSegundoParcialServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
