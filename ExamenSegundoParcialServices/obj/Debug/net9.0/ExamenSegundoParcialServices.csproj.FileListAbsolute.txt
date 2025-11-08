@@ -331,3 +331,5 @@ C:\Users\rocha\Documents\Congreso\ExamenSegundoParcialServices\obj\Debug\net9.0\
 C:\Users\rocha\Documents\Congreso\ExamenSegundoParcialServices\obj\Debug\net9.0\ExamenSegundoParcialServices.pdb
 C:\Users\rocha\Documents\Congreso\ExamenSegundoParcialServices\obj\Debug\net9.0\ExamenSegundoParcialServices.genruntimeconfig.cache
 C:\Users\rocha\Documents\Congreso\ExamenSegundoParcialServices\obj\Debug\net9.0\ref\ExamenSegundoParcialServices.dll
+C:\Users\rocha\Documents\Congreso\ExamenSegundoParcialServices\bin\Debug\net9.0\Npgsql.dll
+C:\Users\rocha\Documents\Congreso\ExamenSegundoParcialServices\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
